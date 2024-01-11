@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class first_java_program {
  
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         System.out.println("hi i am shubham amran");
         Scanner take = new Scanner(System.in);
         String x= take.nextLine();
