@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "input_in",
+      "request": "launch",
+      "mainClass": "input_in",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
       "name": "first_java_progr",
       "request": "launch",
       "mainClass": "first_java_progr",
