@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "first_java_progr",
+      "request": "launch",
+      "mainClass": "first_java_progr",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
+      "name": "input_in_java",
+      "request": "launch",
+      "mainClass": "input_in_java",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
+      "name": "newclass",
+      "request": "launch",
+      "mainClass": "newclass",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
       "name": "first_java_program",
       "request": "launch",
       "mainClass": "first_java_program",
