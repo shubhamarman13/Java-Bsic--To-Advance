@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class maths_table {
     public static void main(String[] args) {
         System.out.println("Enter the Number to print the table \n");

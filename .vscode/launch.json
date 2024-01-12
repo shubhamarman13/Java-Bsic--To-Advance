@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "simple_calculator_",
+      "request": "launch",
+      "mainClass": "simple_calculator_",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
+      "name": "while_loop",
+      "request": "launch",
+      "mainClass": "while_loop",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
       "name": "maths_table",
       "request": "launch",
       "mainClass": "maths_table",
