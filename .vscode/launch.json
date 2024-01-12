@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "maths_table",
+      "request": "launch",
+      "mainClass": "maths_table",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
+      "name": "if_else",
+      "request": "launch",
+      "mainClass": "if_else",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
+      "name": "Simple",
+      "request": "launch",
+      "mainClass": "Simple",
+      "projectName": "Java Bsic  To Advance_c077be97"
+    },
+    {
+      "type": "java",
       "name": "input_in",
       "request": "launch",
       "mainClass": "input_in",
